@@ -1,3 +1,5 @@
+<img src="logo.png" alt="LinguAid logo" width="160">
+
 # LinguAid
 
 LinguAid is the Android app for the LinguAid glove. It reads Filipino Sign Language signs from the glove over Bluetooth, shows them as a sentence, and speaks them in Filipino or English.
